@@ -8,9 +8,9 @@
 ## Step 2:
   Enter position of 'X' (Note that the layout is that of a basic number pad)
   E.g.
-  "1, 2, 3,
-   4, 5, 6,
-   7, 8, 9"
+"1, 2, 3,
+ 4, 5, 6,
+ 7, 8, 9"
  
  ## Outcome
   'X' will be printed at assigned position.
